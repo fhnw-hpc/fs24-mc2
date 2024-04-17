@@ -2,7 +2,7 @@
 
 In this Mini Challenge 2, we will be programming, parallelizing, accelerating, and analyzing the compression-decompression of Alzheimer's MRI images. The first part (CPU) can be worked on locally on your own PC or on [FHNW Jupyter Hub](https://jhub.cs.technik.fhnw.ch/). The second part requires an Nvidia GPU. You can also develop on a private GPU or use the free service provided by [Google Colab](colab.research.google.com/).
 
-[Use GitHub Classroom to work on this mini challenge](https://classroom.github.com/a/nLN_c1Qr)
+[Use GitHub Classroom to work on this mini challenge](https://classroom.github.com/a/qRHs6yk5)
 
 ### Remarks
 * The Mini Challenge is divided into 2 parts:
