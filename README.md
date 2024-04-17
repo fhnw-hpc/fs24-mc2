@@ -14,6 +14,6 @@ In this Mini Challenge 2, we will be programming, parallelizing, accelerating, a
 
 
 ### Special Bonus
-* A new programming language called Mojo was released a few weeks ago.
+* A new programming language called Mojo was released a year ago.
 * There is an additional grade bonus for those who use Mojo in this Mini Challenge and incorporate it into all measurements/comparisons.
 * Docs: [Mojo Documentation](https://docs.modular.com/mojo/)
